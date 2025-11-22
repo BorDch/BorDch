@@ -25,9 +25,33 @@
 ---
 
 # 🔮 About Me (Professional)
-I am a motivated data professional studying advanced statistical methods and machine learning at ***MSU*** (**Faculty of Computational Mathematics and Cybernetics**). My immediate goal is to contribute as a **Data Analyst**—delivering rigorous exploratory analysis, reliable dashboards, and A/B experimentation—while progressing towards **Data Scientist responsibilities: бbuilding robust predictive models, designing experiments, and productionizing ML. I combine strong statistical foundations with hands-on experience in data engineering, model tuning, and reproducible pipelines. I value clean code, effective visualization, and explainable results that inform product and research decisions.
+I am a motivated data professional studying advanced statistical methods and machine learning at ***MSU*** (**Faculty of Computational Mathematics and Cybernetics**). My immediate goal is to contribute as a **Data Analyst** — delivering rigorous exploratory analysis, reliable dashboards, and A/B experimentation—while progressing towards **Data Scientist responsibilities**: *building robust predictive models, designing experiments, and productionizing ML*. I combine *strong statistical foundations with hands-on experience in data engineering, model tuning, and reproducible pipelines*. I value clean code, effective visualization, and explainable results that inform product and research decisions.
+
+    ---
+    ██╗    ██╗███████╗███╗   ██╗     ██╗██╗███████╗███████╗
+    ██║    ██║██╔════╝████╗  ██║     ██║██║██╔════╝██╔════╝
+    ██║ █╗ ██║█████╗  ██╔██╗ ██║     ██║██║█████╗  ███████╗
+    ██║███╗██║██╔══╝  ██║╚██╗██║██   ██║██║██╔══╝  ╚════██║
+    ╚███╔███╔╝███████╗██║ ╚████║╚█████╔╝██║███████╗███████║
+     ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝ ╚════╝ ╚═╝╚══════╝╚══════╝
+
+       ██████╗  █████╗ ████████╗ █████╗ 
+      ██╔════╝ ██╔══██╗╚══██╔══╝██╔══██╗
+      ██║  ███╗███████║   ██║   ███████║
+      ██║   ██║██╔══██║   ██║   ██╔══██║
+      ╚██████╔╝██║  ██║   ██║   ██║  ██║
+       ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+   “DATA IS INSIGHT — LET’S TURN IT INTO INTELLIGENCE”
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=120&color=8C6BFF&center=true&vCenter=true&width=1200&height=90&lines=Use+probability+to+update+your+beliefs+in+light+of+new+evidence.;UsΞ+proba%62ility+to+updΔte+your+beliefs+in+light+of+new+evi%64ence.;U%e+probαbility+to+updatе+your+beli%65s+in+light+of+nеw+evidence.;U$e+probabil!ty+to+updatе+your+beliefs+in+light+of+nеw+eviden¢e.;USE+PROBABILITY+TO+UPDATE+YOUR+BELIEFS+IN+LIGHT+OF+NEW+EVIDENCE.;Usε+pr%62bαbility+to+upd@tе+your+beli€fs+in+ligh+of+nеw+ev1dence." alt="neon glitch quote"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1100&pause=120&color=FF4EDB&center=true&vCenter=true&width=1100&height=110&lines=Data+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D%CE%94ta+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;Da%2Bt%D0%B0+is+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+inteI!gence...;D%21a%21a+%20i+s+%20i+n+s+i+g+h+t+%E2%80%94+let%E2%80%99s+turn+it...;D+a+t+a+%20i+s+%20i+n+s+i+g+h+t+%E2%80%94+%C2%A1let%E2%80%99s+turn...;DATA+IS+INSIGHT+%E2%80%94+LET%E2%80%99S+TURN+IT+INTO+INTELLIGENCE...;Dat%C3%A0+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D%CE%94t%C3%A0+%21s+%20ins%21ght+%E2%80%94+turn+it+%2F+intelligence...;D%2Ata+is+insight+%E2%80%94+let%E2%80%99s+turn+it+int%C3%B6+intelligence...;D%CE%9Ea+is+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+intell%26gence...;Dat%D0%B0+is+in%F0%9F%98%8A+sight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D@t@+%21s+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence..." alt="ultra neon typing glitch"/>
+</p>
 
 ## 🎨 Neon Tech Stack (selected)
 <p align="center">
@@ -75,7 +99,7 @@ I am a motivated data professional studying advanced statistical methods and mac
 
 ---
 
-## 🔥 Neon Project Cards (replace with your project links)
+## 🔥 Project Cards
 <!-- style: shields-style project cards. Replace PROJECT-URL and PROJECT-NAME -->
 <p align="center">
   <a href="PROJECT-URL-1">
@@ -94,19 +118,19 @@ I am a motivated data professional studying advanced statistical methods and mac
 ---
 
 ## 📌 Key Contributions & Focus Areas
-- Exploratory Data Analysis (EDA), hypothesis testing and cohort analysis  
-- Production dashboards & BI instrumentation (Power BI, Superset, Qlik)  
-- A/B test design, analysis, and interpretation using statistical methods  
-- ML model development, hyperparameter tuning (Optuna), and model evaluation  
-- Time series forecasting, anomaly detection, and interpretable ML  
-- MLOps fundamentals: Dockerized models, reproducible pipelines, basic model serving (FastAPI)
+- Exploratory Data Analysis (EDA), hypothesis testing and cohort analysis;  
+- Production dashboards & BI instrumentation (Power BI, Superset, Qlik);  
+- A/B test design, analysis, and interpretation using statistical methods;  
+- ML model development, hyperparameter tuning (Optuna), and model evaluation;  
+- Time series forecasting, anomaly detection, and interpretable ML;  
+- MLOps fundamentals: Dockerized models, reproducible pipelines, basic model serving (FastAPI).
 
 ---
 
-## 📫 Contacts (stylish badges — add your links)
+## 📫 Contacts
 <p align="center">
-  <a href="boris.cherkasov@outlook.com">
-    <img src="https://img.shields.io/badge/Email-boris.cherkasov@outlook.com%40example.com-00FFA3?style=for-the-badge&labelColor=0b0f19" alt="email"/>
+  <a href="mialto:boris.cherkasov@outlook.com">
+    <img src="https://img.shields.io/badge/Email-boris.cherkasov@outlook%40.com-00FFA3?style=for-the-badge&labelColor=0b0f19" alt="email"/>
   </a>
   <a href="https://t.me/bor1s_cherkas0v">
     <img src="https://img.shields.io/badge/Telegram-@bor1s_cherkas0v-1DA1F2?style=for-the-badge&labelColor=0b0f19" alt="telegram"/>
@@ -126,22 +150,9 @@ I am a motivated data professional studying advanced statistical methods and mac
 
 ---
 
-## ✨ Optional: Neon streak & animated elements
+## ✨ Streak & animated elements
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=react" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BorDch&theme=react" alt="streak"/>
 </p>
 
 ---
-
-## 📝 Notes & customization ideas
-- To make the neon look stronger, replace badge background/label colors with bright neon hexes like #00FFA3, #FF6B6B, #8C6BFF. Use labelColor and color params on shields.io badges.  
-- You can swap the typing banner for a custom animated GIF (host it in this repo and reference `./assets/banner.gif`).  
-- For project cards, consider small 2–3 line descriptions below each badge (or use repository pinned items on your GitHub profile).  
-- If you want, I can produce a custom animated banner GIF (neon style) or tune the color palette for maximum neon contrast.
-
----
-
-## ⚡ Quick checklist (do this after pasting)
-1. Rename the repo to BorisCherkasov (or your GitHub username).  
-2. Replace USERNAME, PROJECT-URL-#, and contact placeholders with your real links.  
-3. (Optional) Add a local assets/banner.gif and replace the typing-banner img src with .
