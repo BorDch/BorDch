@@ -105,13 +105,13 @@ I am a motivated data professional studying advanced statistical methods and mac
 
 ## 📫 Contacts (stylish badges — add your links)
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="boris.cherkasov@outlook.com">
     <img src="https://img.shields.io/badge/Email-your.email%40example.com-00FFA3?style=for-the-badge&labelColor=0b0f19" alt="email"/>
   </a>
-  <a href="https://t.me/your_telegram">
+  <a href="https://t.me/bor1s_cherkas0v">
     <img src="https://img.shields.io/badge/Telegram-@your_telegram-1DA1F2?style=for-the-badge&labelColor=0b0f19" alt="telegram"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="http://linkedin.com/in/boris-cherkasov-data-analyst-scientist">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0b0f19" alt="linkedin"/>
   </a>
 </p>
