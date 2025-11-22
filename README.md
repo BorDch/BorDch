@@ -15,11 +15,11 @@
 
 <p align="center">
   
-    🎓 Student, Faculty of Computational Mathematics and Cybernetics, MSU — Department of Mathematical Statistics  
+    🎓 Student, Faculty of Computational Mathematics and Cybernetics, MSU — Department of Mathematical Statistics;  
   
-    🔭 Currently focused on Data Analysis with a roadmap to Data Science  
+    🔭 Currently focused on Data Analysis with a roadmap to Data Science;  
   
-    🌐 Fluent with production pipelines, statistical modeling, and ML experimentation
+    🌐 Fluent with production pipelines, statistical modeling, and ML experimentation.
 </p>
 
 ---
@@ -113,7 +113,7 @@ I am a motivated data professional studying advanced statistical methods and mac
   </a>
 </p>
 
-> Tip: For each project, set href to https://github.com/USERNAME/REPO and change the badge text to a short, clear title. You can create more badges / change colors on https://shields.io.
+<!-- > Tip: For each project, set href to https://github.com/USERNAME/REPO and change the badge text to a short, clear title. You can create more badges / change colors on https://shields.io. -->
 
 ---
 
