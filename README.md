@@ -24,7 +24,7 @@
 
 ---
 
-# 🔮 About Me (Professional)
+# 🔮 About Me
 I am a motivated data professional studying advanced statistical methods and machine learning at ***MSU*** (**Faculty of Computational Mathematics and Cybernetics**). My immediate goal is to contribute as a **Data Analyst** — delivering rigorous exploratory analysis, reliable dashboards, and A/B experimentation—while progressing towards **Data Scientist responsibilities**: *building robust predictive models, designing experiments, and productionizing ML*. I combine *strong statistical foundations with hands-on experience in data engineering, model tuning, and reproducible pipelines*. I value clean code, effective visualization, and explainable results that inform product and research decisions.
 
     ---
@@ -53,7 +53,7 @@ I am a motivated data professional studying advanced statistical methods and mac
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1100&pause=120&color=FF4EDB&center=true&vCenter=true&width=1100&height=110&lines=Data+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D%CE%94ta+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;Da%2Bt%D0%B0+is+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+inteI!gence...;D%21a%21a+%20i+s+%20i+n+s+i+g+h+t+%E2%80%94+let%E2%80%99s+turn+it...;D+a+t+a+%20i+s+%20i+n+s+i+g+h+t+%E2%80%94+%C2%A1let%E2%80%99s+turn...;DATA+IS+INSIGHT+%E2%80%94+LET%E2%80%99S+TURN+IT+INTO+INTELLIGENCE...;Dat%C3%A0+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D%CE%94t%C3%A0+%21s+%20ins%21ght+%E2%80%94+turn+it+%2F+intelligence...;D%2Ata+is+insight+%E2%80%94+let%E2%80%99s+turn+it+int%C3%B6+intelligence...;D%CE%9Ea+is+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+intell%26gence...;Dat%D0%B0+is+in%F0%9F%98%8A+sight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D@t@+%21s+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence..." alt="ultra neon typing glitch"/>
 </p>
 
-## 🎨 Neon Tech Stack (selected)
+## 🎨 Tech Stack
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
