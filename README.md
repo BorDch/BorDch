@@ -120,8 +120,8 @@ I am a motivated data professional studying advanced statistical methods and mac
 
 ## 📈 GitHub Stats (replace USERNAME)
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" alt="github stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=BorDch&show_icons=true&theme=radical&hide_border=true" alt="github stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorDch&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
 </p>
 
 ---
