@@ -5,9 +5,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BorDch.BorDch">
 
 <!-- Animated typing banner (replace text or style as you like) -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FFA3&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Boris+Cherkasov.;Data+Analyst+|+Aspiring+Data+Scientist;MSU%2C+Faculty+of+Computational+Mathematics+and+Cybernetics" alt="typing svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FFA3&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Boris+Cherkasov.;Data+Analyst+|+Aspiring+Data+Scientist+|+AI+Researcher;" alt="typing svg"/>
 </p>
+
 
 <!-- <p align="center">
   <img alt="neon-divider" src="https://img.shields.io/badge/---%20Neon%20Profile%20-%20Welcome%20--?style=for-the-badge&labelColor=0b0f19&color=00FFA3"/>
@@ -15,13 +17,16 @@
 
 <h1 align="center">👋 Hi — I'm Boris Cherkasov</h1>
 
-<!-- <h5 align="center">
-  <code><a href="http://linkedin.com/in/boris-cherkasov-data-analyst-scientist" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5> -->
 
+
+
+<h5 align="center">
+  <code><a href="http://linkedin.com/in/boris-cherkasov-data-analyst-scientist" title="LinkedIn Profile"><img width="22" src="pics/linkedin.svg"> LinkedIn</a></code>
+  <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
+  <!-- <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
+  <code><a href="https://www.instagram.com/bor1s_cherkas0v/" title="Instagram Profile"><img width="22" src="pics/instagram.svg"> Instagram</a></code>
+</h5>
+<!-- ### 📋📩👨‍💼 [CV](./resume%20&%20CVs/BC_CV_2025_v0_0_ENG.pdf) -->
 <p align="center">
   
     🎓 Student, Faculty of Computational Mathematics and Cybernetics, MSU — Department of Mathematical Statistics;  
@@ -35,6 +40,26 @@
 
 # 🔮 About Me
 I am a motivated data professional studying advanced statistical methods and machine learning at ***MSU*** (**Faculty of Computational Mathematics and Cybernetics**). My immediate goal is to contribute as a **Data Analyst** — delivering rigorous exploratory analysis, reliable dashboards, and A/B experimentation—while progressing towards **Data Scientist responsibilities**: *building robust predictive models, designing experiments, and productionizing ML*. I combine *strong statistical foundations with hands-on experience in data engineering, model tuning, and reproducible pipelines*. I value clean code, effective visualization, and explainable results that inform product and research decisions.
+
+<p align="center">
+  <!-- y -->
+  <br>
+  📋📩👨‍💼To look my CV: <a href="./resume & CVs/BC_CV_2025_v0_0_ENG.pdf">click here</a>
+  <!-- 🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  <br>
+  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  <br>
+  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  -->
+  <br>
+  💻 I love writing code and analyse the data, then retrieve insights from it.
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/BorDch/BorDch/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: boris.cherkasov@outlook.com">boris.cherkasov@outlook.com</a>
+</p>
 
     ---
     ██╗    ██╗███████╗███╗   ██╗     ██╗██╗███████╗███████╗
@@ -138,7 +163,7 @@ I am a motivated data professional studying advanced statistical methods and mac
 
 ## 📫 Contacts
 <p align="center">
-  <a href="boris.cherkasov@outlook.com">
+  <a href="mialto: boris.cherkasov@outlook.com">
     <img src="https://img.shields.io/badge/Email-boris.cherkasov%40outlook.com-4D0000?style=for-the-badge&labelColor=0b0f19" alt="email"/>
   </a>
   <a href="https://t.me/bor1s_cherkas0v">
