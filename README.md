@@ -9,11 +9,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FFA3&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Boris+Cherkasov.;Data+Analyst+|+Aspiring+Data+Scientist;MSU%2C+Faculty+of+Computational+Mathematics+and+Cybernetics" alt="typing svg"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="neon-divider" src="https://img.shields.io/badge/---%20Neon%20Profile%20-%20Welcome%20--?style=for-the-badge&labelColor=0b0f19&color=00FFA3"/>
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi — I'm Boris Cherkasov</h1>
+
+<!-- <h5 align="center">
+  <code><a href="http://linkedin.com/in/boris-cherkasov-data-analyst-scientist" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5> -->
 
 <p align="center">
   
