@@ -102,14 +102,14 @@ I am a motivated data professional studying advanced statistical methods and mac
 ## 🔥 Project Cards
 <!-- style: shields-style project cards. Replace PROJECT-URL and PROJECT-NAME -->
 <p align="center">
-  <a href="PROJECT-URL-1">
-    <img alt="Project 1" src="https://img.shields.io/badge/Project1-PROJECT--NAME--1-00FFA3?style=for-the-badge&labelColor=0b0f19&logo=data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>"/>
+  <a href="https://github.com/BorDch/AI-agent-for-A-B-testing">
+    <img alt="Project 1" src="https://img.shields.io/badge/Project1-AI--Agent--for--A/B--Testing-00FFA3?style=for-the-badge&labelColor=0b0f19"/>
   </a>
-  <a href="PROJECT-URL-2">
-    <img alt="Project 2" src="https://img.shields.io/badge/Project2-PROJECT--NAME--2-FF6B6B?style=for-the-badge&labelColor=0b0f19"/>
+  <a href="https://github.com/BorDch/3course_work">
+    <img alt="Project 2" src="https://img.shields.io/badge/Project2-Science--work--Bayesian--Methods-FF6B6B?style=for-the-badge&labelColor=0b0f19"/>
   </a>
-  <a href="PROJECT-URL-3">
-    <img alt="Project 3" src="https://img.shields.io/badge/Project3-PROJECT--NAME--3-8C6BFF?style=for-the-badge&labelColor=0b0f19"/>
+  <a href="https://github.com/BorDch/Data-analysis-project">
+    <img alt="Project 3" src="https://img.shields.io/badge/Project3-(MSU)--Data--analysis--project-8C6BFF?style=for-the-badge&labelColor=0b0f19"/>
   </a>
 </p>
 
