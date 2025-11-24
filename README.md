@@ -2,6 +2,8 @@
 <!--  Neon / Animated README for Boris Cherkasov  -->
 <!-- ===================== -->
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BorDch.BorDch">
+
 <!-- Animated typing banner (replace text or style as you like) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FFA3&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Boris+Cherkasov.;Data+Analyst+|+Aspiring+Data+Scientist;MSU%2C+Faculty+of+Computational+Mathematics+and+Cybernetics" alt="typing svg"/>
