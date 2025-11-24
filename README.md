@@ -129,8 +129,8 @@ I am a motivated data professional studying advanced statistical methods and mac
 
 ## 📫 Contacts
 <p align="center">
-  <a href="mialto:boris.cherkasov@outlook.com">
-    <img src="https://img.shields.io/badge/Email-boris.cherkasov@outlook%40.com-00FFA3?style=for-the-badge&labelColor=0b0f19" alt="email"/>
+  <a href="boris.cherkasov@outlook.com">
+    <img src="https://img.shields.io/badge/Email-boris.cherkasov%40outlook.com-00FFA3?style=for-the-badge&labelColor=0b0f19" alt="email"/>
   </a>
   <a href="https://t.me/bor1s_cherkas0v">
     <img src="https://img.shields.io/badge/Telegram-@bor1s_cherkas0v-1DA1F2?style=for-the-badge&labelColor=0b0f19" alt="telegram"/>
