@@ -7,7 +7,7 @@
 <!-- Animated typing banner (replace text or style as you like) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FFA3&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Boris+Cherkasov.;Data+Analyst+|+Aspiring+Data+Scientist+|+AI+Researcher;" alt="typing svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FFA3&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Boris+Cherkasov.;Data+Analyst+|+Data+Scientist+|+AI+Researcher;" alt="typing svg"/>
 </p>
 
 
