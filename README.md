@@ -133,9 +133,41 @@ I am a motivated data professional studying advanced statistical methods and mac
 
 ---
 
-## 🔥 Project Cards
-<!-- style: shields-style project cards. Replace PROJECT-URL and PROJECT-NAME -->
-<p align="center">
+<details open>
+  <summary><h2>🔥 Open-source projects</h2></summary>
+
+  <p align="left">
+    <!-- Репо-карты (pin) — подставь/добавь свои репозитории -->
+    <a href="https://github.com/BorDch/AI-agent-for-A-B-testing">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=AI-agent-for-A-B-testing&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="AI-agent-for-A-B-testing">
+    </a>
+    <a href="https://github.com/BorDch/3course_work">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=3course_work&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="3course_work">
+    </a>
+    <a href="https://github.com/BorDch/Data-analysis-project">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=Data-analysis-project&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="Data-analysis-project">
+    </a>
+    <a href="https://github.com/BorDch/AIDAO-Olympiad-2025">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=AIDAO-Olympiad-2025&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="AIDAO-Olympiad">
+    </a>
+    <a href="https://github.com/BorDch/BNS_3_course_practice">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=BNS_3_course_practice&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="BNS_3_course_practice">
+    </a>
+    <a href="https://github.com/BorDch/qa-system">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=qa-system&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="qa-system">
+    </a>
+    <a href="https://github.com/BorDch/Data-analysis-project">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=Data-analysis-project&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="Data-analysis-project">
+    </a>
+  </p>
+
+  <p align="center" style="margin-top: 8px;">
+    <a href="https://github.com/BorDch?tab=repositories&sort=stargazers">
+      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20repos-0b0f19?style=for-the-badge&logo=github&logoColor=FF3B3B"/>
+    </a>
+  </p>
+</details>
+<!-- <p align="center">
   <a href="https://github.com/BorDch/AI-agent-for-A-B-testing">
     <img alt="Project 1" src="https://img.shields.io/badge/Project1-AI--Agent--for--A/B--Testing-00FFA3?style=for-the-badge&labelColor=0b0f19"/>
   </a>
@@ -145,7 +177,7 @@ I am a motivated data professional studying advanced statistical methods and mac
   <a href="https://github.com/BorDch/Data-analysis-project">
     <img alt="Project 3" src="https://img.shields.io/badge/Project3-(MSU)--Data--analysis--project-8C6BFF?style=for-the-badge&labelColor=0b0f19"/>
   </a>
-</p>
+</p> -->
 
 <!-- > Tip: For each project, set href to https://github.com/USERNAME/REPO and change the badge text to a short, clear title. You can create more badges / change colors on https://shields.io. -->
 
