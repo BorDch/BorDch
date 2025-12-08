@@ -18,8 +18,6 @@
 <h1 align="center">👋 Hi — I'm Boris Cherkasov</h1>
 
 
-
-
 <h5 align="center">
   <code><a href="http://linkedin.com/in/boris-cherkasov-data-analyst-scientist" title="LinkedIn Profile"><img width="22" src="pics/linkedin.svg"> LinkedIn</a></code>
   <!-- <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code> -->
@@ -158,6 +156,12 @@ I am a motivated data professional studying advanced statistical methods and mac
     </a>
     <a href="https://github.com/BorDch/Data-analysis-project">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=Data-analysis-project&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="Data-analysis-project">
+    </a>
+    <a href="https://github.com/BorDch/Hack_Change_2025">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=Hack_Change_2025&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="Hack_Change_2025">
+    </a>
+    <a href="https://github.com/BorDch/MSU-DL-COURSE-2025-2026">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=MSU-DL-COURSE-2025-2026&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="MSU-DL-COURSE-2025-2026">
     </a>
   </p>
 
