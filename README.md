@@ -54,6 +54,8 @@ I combine strong theoretical foundations with hands-on experience in:
 
 Currently interested in research-oriented AI systems and advanced LLM applications.
 
+I focus on designing end-to-end ML systems, from data processing to model inference and deployment.
+
 <p align="center">
   <!-- y -->
   <br>
@@ -194,7 +196,7 @@ Currently interested in research-oriented AI systems and advanced LLM applicatio
 ---
 
 ## 📌 Key Contributions & Focus Areas
-- Exploratory Data Analysis (EDA), hypothesis testing and cohort analysis;  
+- Data processing, statistical analysis, and experiment design (A/B testing);  
 - Production dashboards & BI instrumentation (Power BI, Superset, Qlik);  
 - A/B test design, analysis, and interpretation using statistical methods;  
 - ML model development, hyperparameter tuning (Optuna), and model evaluation;  
