@@ -150,9 +150,9 @@ I focus on designing end-to-end ML systems, from data processing to model infere
     <a href="https://github.com/BorDch/3course_work">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=3course_work&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="3course_work">
     </a>
-    <a href="https://github.com/BorDch/Data-analysis-project">
+    <!-- <a href="https://github.com/BorDch/Data-analysis-project">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=Data-analysis-project&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="Data-analysis-project">
-    </a>
+    </a> -->
     <a href="https://github.com/BorDch/AIDAO-Olympiad-2025">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=AIDAO-Olympiad-2025&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="AIDAO-Olympiad">
     </a>
@@ -162,9 +162,9 @@ I focus on designing end-to-end ML systems, from data processing to model infere
     <a href="https://github.com/BorDch/qa-system">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=qa-system&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="qa-system">
     </a>
-    <a href="https://github.com/BorDch/Data-analysis-project">
+    <!-- <a href="https://github.com/BorDch/Data-analysis-project">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=Data-analysis-project&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="Data-analysis-project">
-    </a>
+    </a> -->
     <a href="https://github.com/BorDch/Hack_Change_2025">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BorDch&repo=Hack_Change_2025&theme=react&bg_color=0b0f19&title_color=FF3B3B&hide_border=true&icon_color=FF6B6B&show_icons=false" alt="Hack_Change_2025">
     </a>
