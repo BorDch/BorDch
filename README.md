@@ -7,7 +7,7 @@
 <!-- Animated typing banner (replace text or style as you like) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FFA3&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Boris+Cherkasov.;Data+Analyst+|+ML+Engineer+|+Data+Scientist;" alt="typing svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00FFA3&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I%27m+Boris+Cherkasov.;ML+/+AI+Engineer+|+LLM+Systems+|+Backend;" alt="typing svg"/>
 </p>
 
 
@@ -36,8 +36,23 @@
 
 ---
 
-# 🔮 About Me
-I am a motivated data professional studying advanced statistical methods and machine learning at ***MSU*** (**Faculty of Computational Mathematics and Cybernetics**). My immediate goal is to contribute as a **Data Analyst** — delivering rigorous exploratory analysis, reliable dashboards, and A/B experimentation—while progressing towards **Data Scientist responsibilities**: *building robust predictive models, designing experiments, and productionizing ML*. I combine *strong statistical foundations with hands-on experience in data engineering, model tuning, and reproducible pipelines*. I value clean code, effective visualization, and explainable results that inform product and research decisions.
+## 🔮 About Me
+
+I am a Machine Learning / AI Engineer with a strong background in mathematical statistics (MSU).
+
+My work focuses on building LLM-based systems and integrating machine learning models into real-world backend pipelines.
+
+Key areas of interest:
+- LLM systems (RAG, multi-agent architectures)
+- AI for Science (automation of research workflows)
+- probabilistic methods in ML
+
+I combine strong theoretical foundations with hands-on experience in:
+- ML systems design
+- backend development (FastAPI)
+- production ML pipelines
+
+Currently interested in research-oriented AI systems and advanced LLM applications.
 
 <p align="center">
   <!-- y -->
@@ -59,31 +74,7 @@ I am a motivated data professional studying advanced statistical methods and mac
   📫 How to reach me: <a href="mailto: boris.cherkasov@outlook.com">boris.cherkasov@outlook.com</a>
 </p>
 
-    ---
-    ██╗    ██╗███████╗███╗   ██╗     ██╗██╗███████╗███████╗
-    ██║    ██║██╔════╝████╗  ██║     ██║██║██╔════╝██╔════╝
-    ██║ █╗ ██║█████╗  ██╔██╗ ██║     ██║██║█████╗  ███████╗
-    ██║███╗██║██╔══╝  ██║╚██╗██║██   ██║██║██╔══╝  ╚════██║
-    ╚███╔███╔╝███████╗██║ ╚████║╚█████╔╝██║███████╗███████║
-     ╚══╝╚══╝ ╚══════╝╚═╝  ╚═══╝ ╚════╝ ╚═╝╚══════╝╚══════╝
-
-       ██████╗  █████╗ ████████╗ █████╗ 
-      ██╔════╝ ██╔══██╗╚══██╔══╝██╔══██╗
-      ██║  ███╗███████║   ██║   ███████║
-      ██║   ██║██╔══██║   ██║   ██╔══██║
-      ╚██████╔╝██║  ██║   ██║   ██║  ██║
-       ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-
-   “DATA IS INSIGHT — LET’S TURN IT INTO INTELLIGENCE”
-
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=120&color=8C6BFF&center=true&vCenter=true&width=1200&height=90&lines=Use+probability+to+update+your+beliefs+in+light+of+new+evidence.;UsΞ+proba%62ility+to+updΔte+your+beliefs+in+light+of+new+evi%64ence.;U%e+probαbility+to+updatе+your+beli%65s+in+light+of+nеw+evidence.;U$e+probabil!ty+to+updatе+your+beliefs+in+light+of+nеw+eviden¢e.;USE+PROBABILITY+TO+UPDATE+YOUR+BELIEFS+IN+LIGHT+OF+NEW+EVIDENCE.;Usε+pr%62bαbility+to+upd@tе+your+beli€fs+in+ligh+of+nеw+ev1dence." alt="neon glitch quote"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=1100&pause=120&color=FF4EDB&center=true&vCenter=true&width=1100&height=110&lines=Data+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D%CE%94ta+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;Da%2Bt%D0%B0+is+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+inteI!gence...;D%21a%21a+%20i+s+%20i+n+s+i+g+h+t+%E2%80%94+let%E2%80%99s+turn+it...;D+a+t+a+%20i+s+%20i+n+s+i+g+h+t+%E2%80%94+%C2%A1let%E2%80%99s+turn...;DATA+IS+INSIGHT+%E2%80%94+LET%E2%80%99S+TURN+IT+INTO+INTELLIGENCE...;Dat%C3%A0+is+insight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D%CE%94t%C3%A0+%21s+%20ins%21ght+%E2%80%94+turn+it+%2F+intelligence...;D%2Ata+is+insight+%E2%80%94+let%E2%80%99s+turn+it+int%C3%B6+intelligence...;D%CE%9Ea+is+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+intell%26gence...;Dat%D0%B0+is+in%F0%9F%98%8A+sight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence...;D@t@+%21s+in%24ight+%E2%80%94+let%E2%80%99s+turn+it+into+intelligence..." alt="ultra neon typing glitch"/>
-</p>
 
 ## 🎨 Tech Stack
 <p align="center">
@@ -107,7 +98,6 @@ I am a motivated data professional studying advanced statistical methods and mac
 <p align="center">
   <!-- Big Data / infra -->
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=000" alt="Hadoop"/>
   <img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/ETL%20%2F%20DWH-4A90E2?style=for-the-badge" alt="ETL/DWH"/>
@@ -116,9 +106,6 @@ I am a motivated data professional studying advanced statistical methods and mac
 
 <p align="center">
   <!-- Visualization / BI / infra -->
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
-  <img src="https://img.shields.io/badge/Apache_Superset-3A3A3A?style=for-the-badge" alt="Superset"/>
-  <img src="https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge" alt="Qlick Sense"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -128,6 +115,25 @@ I am a motivated data professional studying advanced statistical methods and mac
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangFlow-0E4C92?style=for-the-badge" alt="LangFlow"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Clinical Decision Support System (AI + Backend)
+- FastAPI + YandexGPT
+- compliance score for clinical protocols
+- 1st place — Sechenov University Case Championship
+
+### 🔍 RAG System (Wildberries Internship)
+- embeddings + FAISS retrieval
+- improved relevance by 8–10%
+- production-ready pipeline
+
+### 🤖 AI Assistant for Team Lead
+- NLP + automation
+- parsing reports + sprint management
+- reduced manual work from hours to seconds
 
 ---
 
