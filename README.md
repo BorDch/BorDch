@@ -56,6 +56,9 @@ Currently interested in research-oriented AI systems and advanced LLM applicatio
 
 I focus on designing end-to-end ML systems, from data processing to model inference and deployment.
 
+## 🔬 Interests
+LLM systems, AI for Science, multi-agent systems, probabilistic ML
+
 <p align="center">
   <!-- y -->
   <br>
